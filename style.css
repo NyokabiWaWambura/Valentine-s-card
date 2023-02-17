@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+    background-color:darkcyan;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'JetBrains Mono', monospace;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto', sans-serif; ;
+}
+.dos {
+    margin-top: 0;
+}
+
+.side-to-side {
+    margin-top: 0;
+    color:chartreuse;
+}
+.tres {
+    font-size: 15px;
+    color:aliceblue;
+}
+.main {
+    font-size: 20px;
+    font-weight: bolder;
+    color:brown;
+}
+.quatro {
+    margin: 20px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("images/cover.jpg");
+    background-size: cover;
+}
+#cinco:hover {
+    background-image: url("images/love.webp");
+}
